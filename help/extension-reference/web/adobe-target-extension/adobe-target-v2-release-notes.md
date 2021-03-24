@@ -5,13 +5,22 @@ description: The latest release notes for the Adobe Target v2 extension in Adobe
 
 # Adobe Target v2 Extension release notes
 
+## March 25, 2021
+
+### Adobe Target v2 Extension 0.13.7
+
+- Fixed an issue with targetPageParams being included in mbox requests, though these should only be included in pageLoad requests
+- Optimized window and document globals referencing
+- Upgraded build and test dependencies to fix security vulnerabilities
+- Updated at.js to 2.4.1
+
 ## January 25, 2021
 
 ### Adobe Target v2 Extension 0.13.6
 
 - Adds support for unified profile/platform ID to delivery API customerIds
 - Fixes invalid style tag injection
-- Updated at.s to 2.4.0
+- Updated at.js to 2.4.0
 - Resolved issue where undefined params can result in bad delivery requests
 
 ## November 25, 2020
