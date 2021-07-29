@@ -1,12 +1,6 @@
 {
     "ignorePatterns": [
         {
-            "pattern": "^.*corp.adobe.com"
-        },
-        {
-            "pattern": "^.*digitalu.adobe.com"
-        },
-        {
             "pattern": "^.*adobe-marketing-cloud.github.io"
         },
         {
