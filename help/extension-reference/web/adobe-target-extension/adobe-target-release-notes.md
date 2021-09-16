@@ -9,6 +9,12 @@ exl-id: 9fe1e6c2-e895-4d36-97b6-29f3ccd8a1bc
 >
 >Adobe Experience Platform Launch is being rebranded as a suite of data collection technologies in Experience Platform. Several terminology changes have rolled out across the product documentation as a result. Please refer to the following [document](../../../launch-term-updates.md) for a consolidated reference of the terminology changes.
 
+## September 16, 2021
+
+### Adobe Target Extension 0.11.4
+
+* Add SameSite=None and Secure attributes when setting cookies, to support cookie restrictions in latest browsers
+
 ## July 24, 2020
 
 ### Adobe Target Extension 0.11.3
